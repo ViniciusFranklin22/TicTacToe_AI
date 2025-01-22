@@ -18,6 +18,11 @@ The Minimax algorithm evaluates all possible game states and chooses the optimal
 2. **Scoring System**: Scores are weighted by the number of rounds, prioritizing faster victories.  
 3. **Branch Pruning**: Stops searching further when an optimal result is found in a branch.  
 
+## Files
+
+For more information about the model and how it works, make sure to check the `explanation.pdf` file in this repository.  
+The main Python file for this application is `tictactoe.py`.
+
 ## Getting Started  
 ### Requirements  
 - Python 3.x  
