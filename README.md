@@ -21,7 +21,7 @@ The Minimax algorithm evaluates all possible game states and chooses the optimal
 ## Files
 
 For more information about the model and how it works, make sure to check the `explanation.pdf` file in this repository.  
-The main Python file for this application is `tictactoe.py`.
+The main Python file for this application is `tictactoe_vs_human.py` and 'tictactoe_vs_rand.py'.
 
 ## Getting Started  
 ### Requirements  
